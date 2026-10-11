@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "repository": "Majozin/google-maps-reviews-scraper",
+  "name": "google-maps-reviews-scraper",
+  "publish": false,
+  "updated_at": "2026-10-11",
+  "scope": {
+    "name": "Base a definir",
+    "revision": 1
+  },
+  "milestones": [],
+  "audit": {
+    "date": "2026-10-11",
+    "method": "Revisão documental; sem teste funcional ou de produção.",
+    "ref": "master",
+    "note": "Sem base de entregas verificável; código ou README não permitem inferir percentual."
+  }
+}
